@@ -11,4 +11,4 @@ export default function Error() {
             </Link>
         </Banner>
     </Hero>
-}
+};

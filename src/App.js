@@ -8,7 +8,7 @@ import Error from './pages/Error';
 
 import {Route, Switch} from 'react-router-dom';
 
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar.js';
 
 function App() {
   return (
@@ -22,6 +22,6 @@ function App() {
     </Switch>
     </>
   );
-}
+};
 
 export default App;
