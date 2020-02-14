@@ -26,7 +26,8 @@ export default class Services extends Component {
                 info: `someRandomWordssomeRa`
             },
         ]
-    }
+    };
+
     render() {
         return (
             <section className="services">
