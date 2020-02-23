@@ -26,7 +26,7 @@ export default class Services extends Component {
                 info: `someRandomWordssomeRa`
             },
         ]
-    };
+    }; 
 
     render() {
         return (
